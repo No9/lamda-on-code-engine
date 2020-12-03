@@ -1,0 +1,23 @@
+{
+  "name": "lamda-on-code-engine",
+  "version": "1.0.0",
+  "description": "Run node.js lambda on IBM Cloud Code Engine Service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/lamda-on-code-engine.git"
+  },
+  "keywords": [
+    "lambda",
+    "example"
+  ],
+  "author": "anton whalley",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/No9/lamda-on-code-engine/issues"
+  },
+  "homepage": "https://github.com/No9/lamda-on-code-engine#readme"
+}
