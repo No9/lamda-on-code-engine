@@ -74,6 +74,6 @@ This is a detailed set of steps to go from zero to a running lamda function on I
 11. Once the service is deployed you should be able to post an an event to it that will be echoed back to you.
 
     ```
-    $ curl -s -d '{"hello" : "world"}' https://END_POINT_DOMAIN/2015-03-31/functions/test/invocations
+    $ curl -s -d '{"hello" : "world"}' https://END_POINT_DOMAIN/2015-03-31/functions/function/invocations
     {"hello" : "world"}
     ```
